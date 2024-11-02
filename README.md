@@ -1,2 +1,2 @@
 # Rinicial
-Ejericios de R
+Ejericios iniciales de R
